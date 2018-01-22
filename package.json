@@ -1,7 +1,7 @@
 {
   "name": "azure-storage-proxy",
   "author": "Microsoft Corporation -- modified by pupipipu",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Azure Storage Client library with global proxy settings bot for request and agent",
   "typings": "typings/azure-storage/azure-storage.d.ts",
   "tags": [
